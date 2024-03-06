@@ -1,0 +1,203 @@
+[
+    {
+      "id": 1,
+      "name": "Elminster Shadowstar",
+      "description": "A wise and powerful wizard who guides the Harper Agents.",
+      "age": 201,
+      "isActive": true,
+      "birthdate": "1823-05-20",
+      "profileImageUrl": "https://raw.githubusercontent.com/noeka3/OpdrachtWebOntwikkeling/main/4c4fe0b4-6472-4bb6-a7cd-878a74173ac5.jpg",
+      "status": "active",
+      "hobbies": ["reading", "smoking pipe"],
+      "race": "High Elf",
+      "class": "Wizard",
+      "level": 20,
+      "otherObject": {
+        "id": 201,
+        "nickname": "The Sage of Shadowdale",
+        "birthplace": "Shadowdale",
+        "image": "https://example.com/otherimage.jpg"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Drizzt Do'Urden",
+      "description": "A drow ranger known for his dual scimitars and his panther companion, Guenhwyvar.",
+      "age": 146,
+      "isActive": false,
+      "birthdate": "1878-03-15",
+      "profileImageUrl": "https://raw.githubusercontent.com/noeka3/OpdrachtWebOntwikkeling/main/a50cd7c8-c39f-4dd0-baf7-9c3f4b68f747.jpg",
+      "status": "inactive",
+      "hobbies": ["swordplay", "meditation"],
+      "race": "Drow",
+      "class": "Ranger",
+      "level": 20,
+      "otherObject": {
+        "id": 202,
+        "nickname": "The Lone Wanderer",
+        "birthplace": "Menzoberranzan",
+        "image": "https://example.com/otherimage2.jpg"
+      }
+    },
+    {
+        "id": 3,
+        "name": "Lorelei Silverwind",
+        "description": "A charismatic bard with a mysterious past and a silver tongue.",
+        "age": 28,
+        "isActive": true,
+        "birthdate": "1996-09-05",
+        "profileImageUrl": "https://raw.githubusercontent.com/noeka3/OpdrachtWebOntwikkeling/main/37b5390d-2cfc-4993-bae6-d37cda583c71.jpg",
+        "status": "active",
+        "hobbies": ["singing", "storytelling"],
+        "race": "Half-Elf",
+        "class": "Bard",
+        "level": 15,
+        "otherObject": {
+            "id": 203,
+            "nickname": "The Melodic Enchantress",
+            "birthplace": "Waterdeep",
+            "image": "https://example.com/otherimage3.jpg"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Thorn Ironhide",
+        "description": "A stoic dwarven fighter with a heart of gold and a fierce loyalty to his companions.",
+        "age": 65,
+        "isActive": true,
+        "birthdate": "1959-10-30",
+        "profileImageUrl": "https://raw.githubusercontent.com/noeka3/OpdrachtWebOntwikkeling/main/9c975ccc-7cfd-49b7-83c4-54c475ac2f4a.jpg",
+        "status": "active",
+        "hobbies": ["blacksmithing", "drinking ale"],
+        "race": "Dwarf",
+        "class": "Fighter",
+        "level": 10,
+        "otherObject": {
+            "id": 204,
+            "nickname": "The Iron Guardian",
+            "birthplace": "Ironfast",
+            "image": "https://example.com/otherimage4.jpg"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Evelyn Stormheart",
+        "description": "A bold and adventurous human ranger with a deep connection to nature.",
+        "age": 30,
+        "isActive": true,
+        "birthdate": "1994-12-02",
+        "profileImageUrl": "https://raw.githubusercontent.com/noeka3/OpdrachtWebOntwikkeling/main/61028025-92d1-44cc-89d6-f99f01b41b8b.jpg",
+        "status": "active",
+        "hobbies": ["archery", "exploring the wilderness"],
+        "race": "Human",
+        "class": "Ranger",
+        "level": 12,
+        "otherObject": {
+            "id": 205,
+            "nickname": "The Wild Wanderer",
+            "birthplace": "Greenleaf Village",
+            "image": "https://example.com/otherimage5.jpg"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Aria Nightshade",
+        "description": "A mysterious tiefling rogue with a penchant for stealth and deception.",
+        "age": 27,
+        "isActive": true,
+        "birthdate": "1997-05-13",
+        "profileImageUrl": "https://raw.githubusercontent.com/noeka3/OpdrachtWebOntwikkeling/main/638c29ef-f33a-4f66-b90a-65cd341d4f13.jpg",
+        "status": "active",
+        "hobbies": ["lockpicking", "shadow dancing"],
+        "race": "Tiefling",
+        "class": "Rogue",
+        "level": 11,
+        "otherObject": {
+            "id": 206,
+            "nickname": "The Shadow Phantom",
+            "birthplace": "Shadowfell",
+            "image": "https://example.com/otherimage6.jpg"
+        }
+    },
+    {
+        "id": 7,
+        "name": "Kaelen Brightblade",
+        "description": "A noble-hearted elven paladin devoted to upholding justice and protecting the innocent.",
+        "age": 150,
+        "isActive": true,
+        "birthdate": "1874-04-21",
+        "profileImageUrl": "https://raw.githubusercontent.com/noeka3/OpdrachtWebOntwikkeling/main/ea5f7a44-8294-4036-96f9-c568bde8c845.jpg",
+        "status": "active",
+        "hobbies": ["training", "meditation"],
+        "race": "Elf",
+        "class": "Paladin",
+        "level": 14,
+        "otherObject": {
+            "id": 207,
+            "nickname": "The Radiant Guardian",
+            "birthplace": "Sunspire",
+            "image": "https://example.com/otherimage7.jpg"
+        }
+    },
+    {
+        "id": 8,
+        "name": "Grimnir Thunderbeard",
+        "description": "A grizzled dwarven cleric with a strong sense of duty and a deep devotion to his deity.",
+        "age": 120,
+        "isActive": true,
+        "birthdate": "1904-11-01",
+        "profileImageUrl": "https://raw.githubusercontent.com/noeka3/OpdrachtWebOntwikkeling/main/74b48586-e09a-462c-8040-700622d59d5e.jpg",
+        "status": "active",
+        "hobbies": ["praying", "brewing ale"],
+        "race": "Dwarf",
+        "class": "Cleric",
+        "level": 13,
+        "otherObject": {
+            "id": 208,
+            "nickname": "The Thunderous Priest",
+            "birthplace": "Stonehammer Monastery",
+            "image": "https://example.com/otherimage8.jpg"
+        }
+    },
+    {
+        "id": 9,
+        "name": "Liliana Shadowcaster",
+        "description": "A enigmatic half-elf warlock with a mysterious patron and a thirst for arcane knowledge.",
+        "age": 35,
+        "isActive": true,
+        "birthdate": "1989-08-19",
+        "profileImageUrl": "https://raw.githubusercontent.com/noeka3/OpdrachtWebOntwikkeling/main/4fb0957b-8edc-4165-bbdc-aba3848a0044.jpg",
+        "status": "active",
+        "hobbies": ["studying ancient tomes", "conjuring illusions"],
+        "race": "Half-Elf",
+        "class": "Warlock",
+        "level": 10,
+        "otherObject": {
+            "id": 209,
+            "nickname": "The Arcane Shadow",
+            "birthplace": "Mystic Vale",
+            "image": "https://example.com/otherimage9.jpg"
+        }
+    },
+    {
+        "id": 10,
+        "name": "Thorin Stonefist",
+        "description": "A fierce half-orc barbarian with a love for battle and a relentless spirit.",
+        "age": 32,
+        "isActive": true,
+        "birthdate": "1992-02-16",
+        "profileImageUrl": "https://raw.githubusercontent.com/noeka3/OpdrachtWebOntwikkeling/main/586f30f3-0a88-453d-822d-b2df2dfba1b3.jpg",
+        "status": "active",
+        "hobbies": ["training", "testing his strength"],
+        "race": "Half-Orc",
+        "class": "Barbarian",
+        "level": 12,
+        "otherObject": {
+            "id": 210,
+            "nickname": "The Savage Warrior",
+            "birthplace": "Bloodfist Stronghold",
+            "image": "https://example.com/otherimage10.jpg"
+        }
+    }
+    
+  ]
