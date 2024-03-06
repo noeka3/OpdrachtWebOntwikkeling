@@ -1,0 +1,62 @@
+[
+    {
+        "id": 201,
+        "nickname": "The Sage of Shadowdale",
+        "birthplace": "Shadowdale",
+        "image": "https://example.com/otherimage.jpg"
+    },
+    {
+        "id": 202,
+        "nickname": "The Lone Wanderer",
+        "birthplace": "Menzoberranzan",
+        "image": "https://example.com/otherimage2.jpg"
+    },
+    {
+        "id": 203,
+        "nickname": "The Melodic Enchantress",
+        "birthplace": "Waterdeep",
+        "image": "https://example.com/otherimage3.jpg"
+    },
+    {
+        "id": 204,
+        "nickname": "The Iron Guardian",
+        "birthplace": "Ironfast",
+        "image": "https://example.com/otherimage4.jpg"
+    },
+    {
+        "id": 205,
+        "nickname": "The Wild Wanderer",
+        "birthplace": "Greenleaf Village",
+        "image": "https://example.com/otherimage5.jpg"
+    },
+    {
+        "id": 206,
+        "nickname": "The Shadow Phantom",
+        "birthplace": "Shadowfell",
+        "image": "https://example.com/otherimage6.jpg"
+    },
+    {
+        "id": 207,
+        "nickname": "The Radiant Guardian",
+        "birthplace": "Sunspire",
+        "image": "https://example.com/otherimage7.jpg"
+    },
+    {
+        "id": 208,
+        "nickname": "The Thunderous Priest",
+        "birthplace": "Stonehammer Monastery",
+        "image": "https://example.com/otherimage8.jpg"
+    },
+    {
+        "id": 209,
+        "nickname": "The Arcane Shadow",
+        "birthplace": "Mystic Vale",
+        "image": "https://example.com/otherimage9.jpg"
+    },
+    {
+        "id": 210,
+        "nickname": "The Savage Warrior",
+        "birthplace": "Bloodfist Stronghold",
+        "image": "https://example.com/otherimage10.jpg"
+    }
+]
